@@ -109,8 +109,8 @@ public Index() {
 
 实验结果
 -------
-![](https://github.com/JST165411/-/blob/master/4899235c5fe3a7d81b87ddb6e887c2a.png)</div>
-![](https://github.com/JST165411/-/blob/master/950114a0258d02b00981d73ee2966e9.png)</div>
+![](https://github.com/CristianoRonaldoDD/sy5/blob/master/%E6%8D%951%E8%8E%B7.PNG)</div>
+![]()</div>
 
 感想
 ----
